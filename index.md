@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CMSC 334 Spring 2026
+title: CMSC 323 Fall 2026
 ---
 ## Teaching Staff
 <div class="wrapper" markdown="0">
@@ -11,8 +11,7 @@ title: CMSC 334 Spring 2026
                 <li><a href="mailto:dszajda@richmond.edu">dszajda@richmond.edu</a></li>
                 <li>Office Hours (Jepson 219):
                     <ul>
-                        <li>Tue 4:30PM - 5:30PM</li>
-                        <li>Fri 3:00PM - 5:00PM</li>
+                        <li>TBD/li>
                         <li>and by appointment (email me or arrange during class)</li> 
                     </ul>
                 </li>
@@ -22,16 +21,17 @@ title: CMSC 334 Spring 2026
 </div>
 
 ## Course Tutors and Mentors
-* None. It's all on me! (This course is only offered every other year, so there
-are no students at UR who could act as peer tutors.)
+* None. It's all on me! (This course is offered every semester, but since it is
+usually only fourth years who take it, there generally no student in the fall
+at UR who could act as peer tutors.)
 
 
 
 ## Class/Lab Info
-* Lecture (Jepson 103a)
+* Lecture (TBD)
   * Tue 12:00PM - 1:15PM
   * Thr 12:00PM - 1:15PM
-* Lab (Jepson 103a)
+* Lab (TBD)
   * Fri 12:00PM - 12:50PM
 
 
