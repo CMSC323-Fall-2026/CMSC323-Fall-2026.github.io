@@ -23,7 +23,17 @@ title: Schedule
 <br /> <br />
 <br /> Student Activity: <br />
 <br /> Write a method to find the sum of numbers in a list <br />
-| Aug 27:  | Aug 28:|
+| Aug 27: <br />L1: PLAIT Syntax<br />
+<br />    Students please have read lecture notes and come with questions <br /> 
+<br /> Demo: Sum numbers in a list with cond <br />
+<br /> Cond with more than 2 alternatives (compute a grade given a score)<br />
+<br /> Higher order functions: map, filter, foldl, and foldr – with anonymous functions, built-in functions and named functions <br />
+<br /> Creating types – predicates for determining if an object is of a particular type, accessors for that type. <br />
+<br />Using type-case -demonstrate how the type-case is better to use than cond <br />
+<br />Demo closures, multi-line comments and contracts and tests <br />
+<br /> Student activity: write Fibonacci number with tail recursion <br />
+<br /> Write compute-area for shape with cond and class predicates etc <br />
+ | Aug 28:|
 | 2    | Sept 1: | Sept 3: Sept 3| Sept 4:|
 | 3    | Sept 8: | Sept 10:  | Sept 11:|
 | 4    | Sept 15: **No Lecture -- Prof S at conference** | Sept 17: **No Lecture -- Prof S at conference**| Sept 18:|
