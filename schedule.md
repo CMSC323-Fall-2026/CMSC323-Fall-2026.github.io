@@ -9,6 +9,7 @@ title: Schedule
 
 * All work should be submitted by **11:59PM** (in Richmond, VA) on the date due.
 
+
 | Week | Lecture (Tue)                              | Lecture (Thr)                                 | Lab (Fri)                                        |
 | :--- | :---                                       | :---                                          | :---                                                  |
 | 1    | Aug 25: <br /> [L0 Introduction:] <br />
