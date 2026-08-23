@@ -22,16 +22,16 @@ title: CMSC 323 Fall 2026
 
 ## Course Tutors and Mentors
 * None. It's all on me! (This course is offered every semester, but since it is
-usually only fourth years who take it, there generally no student in the fall
+usually only fourth years who take it, there are generally no students in the fall
 at UR who could act as peer tutors.)
 
 
 
 ## Class/Lab Info
-* Lecture (TBD)
+* Lecture (Weinstein 210)
   * Tue 12:00PM - 1:15PM
   * Thr 12:00PM - 1:15PM
-* Lab (TBD)
+* Lab (Weinstein 210)
   * Fri 12:00PM - 12:50PM
 
 
