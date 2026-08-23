@@ -12,7 +12,7 @@ title: Schedule
 
 | Week | Lecture (Tue)                              | Lecture (Thr)                                 | Lab (Fri)                                        |
 | :--- | :---                                       | :---                                          | :---                                                  |
-| 1    | Aug 25: L0 Introduction: <br /> Why programming languages? <br /> <br /> [Why PLAIT?] <br /> <br /> [Key takeaways] <br /> <br /> [Administrative items] <br /><br /><br /><br /> Demo:<br />| Aug 27:  | Aug 28:|
+| 1    | Aug 25: L0 Introduction: <br /> Why programming languages? <br /> Why PLAIT? <br /> Key takeaways <br /> Administrative items <br /><br />Demo:<br />| Aug 27:  | Aug 28:|
 | 2    | Sept 1: | Sept 3: Sept 3| Sept 4:|
 | 3    | Sept 8: | Sept 10:  | Sept 11:|
 | 4    | Sept 15: **No Lecture -- Prof S at conference** | Sept 17: **No Lecture -- Prof S at conference**| Sept 18:|
