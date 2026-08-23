@@ -11,13 +11,13 @@ title: Schedule
 
 | Week | Lecture (Tue)                              | Lecture (Thr)                                 | Lab (Fri)                                        |
 | :--- | :---                                       | :---                                          | :---                                                  |
-| 1    | Aug 25: <br /> L0 Introduction: <br />
-<br /> Why programming languages? <br />
-<br /> Why PLAIT? <br />
-<br /> Key takeaways <br />
-<br /> Administrative items <br />
+| 1    | Aug 25: <br /> [L0 Introduction:] <br />
+<br /> [Why programming languages?] <br />
+<br /> [Why PLAIT?] <br />
+<br /> [Key takeaways] <br />
+<br /> [Administrative items] <br />
 <br /><br />
-<br /> Demo:<br />
+<br /> [Demo:]<br />
 <br /> Factorial <br /> 
 <br /> List and list functions <br />
 <br /> <br />
