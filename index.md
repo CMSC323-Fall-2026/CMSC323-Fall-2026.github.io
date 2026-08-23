@@ -11,7 +11,7 @@ title: CMSC 323 Fall 2026
                 <li><a href="mailto:dszajda@richmond.edu">dszajda@richmond.edu</a></li>
                 <li>Office Hours (Jepson 219):
                     <ul>
-                        <li>TBD/li>
+                        <li>TBD</li>
                         <li>and by appointment (email me or arrange during class)</li> 
                     </ul>
                 </li>

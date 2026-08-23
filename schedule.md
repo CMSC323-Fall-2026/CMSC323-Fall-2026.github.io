@@ -11,7 +11,19 @@ title: Schedule
 
 | Week | Lecture (Tue)                              | Lecture (Thr)                                 | Lab (Fri)                                        |
 | :--- | :---                                       | :---                                          | :---                                                  |
-| 1    | Aug 25: <br />[Introduction](lectures/Introduction.pdf)<br /> <br /> Hanson: [Efficient reading of papers in science and technology](papers/hanson_efficient_reading_of_papers_in_science_and_technology.pdf)<br /> <br /> Thompson: [Reflections on Trusting Trust](papers/thompson_reflections_on_trusting_trust.pdf)<br /> | Aug 27:  <br />[Handout: Security Introduction](handouts/security_intro.pdf)<br /> <br />[Implementation Flaws](lectures/ImplementationFlaws.pdf)<br /> | Aug 28:|
+| 1    | Aug 25: <br /> L0 Introduction: <br />
+<br /> Why programming languages? <br />
+<br /> Why PLAIT? <br />
+<br /> Key takeaways <br />
+<br /> Administrative items <br />
+<br /><br />
+<br /> Demo:<br />
+<br /> Factorial <br /> 
+<br /> List and list functions <br />
+<br /> <br />
+<br /> Student Activity: <br />
+<br /> Write a method to find the sum of numbers in a list <br />
+| Aug 27:  | Aug 28:|
 | 2    | Sept 1: | Sept 3: Sept 3| Sept 4:|
 | 3    | Sept 8: | Sept 10:  | Sept 11:|
 | 4    | Sept 15: **No Lecture -- Prof S at conference** | Sept 17: **No Lecture -- Prof S at conference**| Sept 18:|
