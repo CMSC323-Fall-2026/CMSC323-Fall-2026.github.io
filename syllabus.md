@@ -43,10 +43,10 @@ Your dedication and hard work have led you to this moment; you belong here. Cong
 
 ### Course Description
 
-This is a one unit course on the design and implementation of programming languages. It is a required course (for most the last required course) of the CS major.  The catalog description reads "Concepts in design and implementation of programming languages, including compile-time and run-time issues. Support for block-structured procedural languages, object-oriented languages, and functional languages."  Everything after the first phrase is not accurate, and in fact reading it I realized it needs to be changed.  
-
-So, back to that first phrase.  The *design* and *implementation* of programming languages.  These are not independent.  What we'll be discussing in this course are the features of programming languages, along with how such features effect the implementation of these languages.  Let's consider an analogy: an architect.  An architect can design anything they can imagine.  But they don't work in a vacuum.  Their perhaps very creative
+This is a one unit course on the design and implementation of programming languages. These are not independent.  What we'll be discussing in this course are the features of programming languages, along with how such features effect the implementation of these languages.  As an analogy, consider an architect.  An architect can design anything they can imagine.  But they don't work in a vacuum.  Their perhaps very creative
 designs have to be constructed.  An architect who does not consider how their designs can be built, and at what cost, will likely end up designing a lot of structures that are never built. So an architect needs to understand how, and whether, the features they design can actually be practically implemented.  Our journey in this course will be doing the same with programming languages. 
+
+We will consider this relation between design and implementation of programming languages  by building features of a specific language. The features we will implement include an interpreter, a parser, a program generator, and a type-checker. You will be briefly exposed to compilers and learn about garbage collectors. The programming language you design and build in this course will follow the *Standard Model Of Programming Languages* (SMOL), which many popular programming languages (Java, C#, JavaScript, Python) follow. We will implement our programming language using the *Standard Implementation Plan* (SImPl), where expressions in a language are represented as trees. You will also be exposed to functional languages, particularly Dr Racket’s PLAIT, which are elegant and concise ways of expressing problems. PLAIT is built on the functional language Scheme, and is used in this course for its simplicity, expressive elegance, and size.
 
 ### Course Topics 
 
@@ -63,7 +63,7 @@ The pre-requisite for this course is CMSC 301, completed with a grade of C- or b
 
 ## Textbook
 
-There is a textbook for this course.  It is free and can be found [here](https://www.plai.org/3/5/plai-v325.pdf).  I realize that some of you prefer to absorb material through other types of media.  Feel free to do so.  But at least you know that you have a text reference should you need one.  
+There is a textbook for this course.  It is free and can be found [here](https://www.plai.org/ ).  I realize that some of you prefer to absorb material through other types of media.  Feel free to do so.  But at least you know that you have a text reference should you need one.  
 
 ## Coursework and Grading
 
@@ -222,3 +222,6 @@ If you or someone you know is feeling suicidal or in danger of self-harm, call s
 
 Some of the material for this course (especially the homework assignments) comes from previous iterations taught by Prof. Prateek Bhakta. 
 
+
+
+[def]: https://www.plai.org/
