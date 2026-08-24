@@ -52,30 +52,18 @@ designs have to be constructed.  An architect who does not consider how their de
 
 I could provide a long list of the topics we'll cover, but I expect that at this point most
 of them would not make sense to you.  So my intention is to add them as we cover them. We
-start with an introduction to PLAIT, which is a *functional* programming language.  (And if you're asking what that is, then you understand why I did not provide a list of topics.) Know that during the course, we will be implementing an interpreter for a functional language, using a functional language.  (More about this in lecture.)
+start with an introduction to PLAIT, which is a *functional* programming language.  (And if you're asking what that is, then you understand why I did not provide a list of topics.) Know that during the course, we will be implementing an interpreter for a functional language, using a functional language.  
 
 <ul>
 <li> PLAIT and an introduction to functional languages</li>
 </ul>
 ## Prerequisite
 
-The pre-requisite for this course is CMSC 301, completed with a grade of C- or better, or permission of the instructor.  Though a knowledge of computer networks is helpful, it is
-not required. Students are expected to be able to implement
-significant projects in C++ and Java.  Readings and lectures may refer
-to C, C++, Java, and at times, assembly, so you need to be able to
-understand these.  Regarding assembly code, I want to be clear:
-As you know from CS 301, writing assembly code can be tricky.  Understanding
-it is usually less difficult.  We will likely run across examples of assembly
-code written for architectures and platforms with which you are not familiar. 
-You need to gain some comfort with being able to understand this code, given
-explanations of the assembly syntax being used.  I expect that I
-will need to clarify some aspects of the assembly code we encounter.  This
-does not mean you need to become expert in these assembly dialects. 
+The pre-requisite for this course is CMSC 301, completed with a grade of C- or better, or permission of the instructor.  As mentioned, CMSC 315 is recommended, though not required.  These courses are recommended for reasons of CS maturity, not because we'll be using circuits, gates, etc. This being said, CMSC 315 is really all about computational problem solving. We'll have a good bit of this to do, though we'll do it in code, not through proofs (which I'm sure makes all of you a bit sad). 
 
 ## Textbook
 
-There is no textbook for this course.  There is,
-however, a good bit of reading of primary sources (security papers).  
+There is a textbook for this course.  It is free and can be found [here](https://www.plai.org/3/5/plai-v325.pdf).  I realize that some of you prefer to absorb material through other types of media.  Feel free to do so.  But at least you know that you have a text reference should you need one.  
 
 ## Coursework and Grading
 
