@@ -20,15 +20,15 @@ aside:
   * TBD -- I will discuss this in lecture so we can agree on times that work for you.
   * Non-scheduled times by appointment (email me or catch me before or after class to schedule)
   * You should also feel free to drop by my office.
-* **Prerequisites:** CMSC 301 with a minimum grade of C- (See [computer science curriculum](https://cs.richmond.edu/Academics/courses/index.html))
+* **Prerequisites:** CMSC 301 with a minimum grade of C-. CMSC 315 is recommended, but not required. (See [computer science curriculum](https://cs.richmond.edu/Academics/courses/index.html))
 
 ### Meeting Times
 
 ## Class/Lab Info
-* Lecture (Jepson 103a)
+* Lecture (Weinstein 210)
   * Tue 12:00PM - 1:15PM
   * Thr 12:00PM - 1:15PM
-* Lab (Jespson 103a)
+* Lab (Weinstein 210)
   * Fri 12:00PM - 12:50PM
 
 ### Course Staff
@@ -37,18 +37,27 @@ aside:
 
 ## Course Details 
 
-### Welcome to Computer Security!
+### Welcome to the Design and Implementation of Programming Languages!
 
 Your dedication and hard work have led you to this moment; you belong here. Congratulations on your achievements, and welcome to the course. I am thrilled to have you here and am looking forward to a semester filled with growth, learning, and success. Together, we will explore, create, and innovate. Let's make this an outstanding semester for everyone!
 
 ### Course Description
 
-This is a one unit course on computer security. We will focus on the principles of security, covering the basics of cryptography, program security, operating system security, and network security.  We will be reading and discussing some current research in the field well as some "classic" primary sources. The course has a programming component, though it is somewhat different than most UR courses in that you are often asked to modify existing code, or "hack" existing code.
+This is a one unit course on the design and implementation of programming languages. It is a required course (for most the last required course) of the CS major.  The catalog description reads "Concepts in design and implementation of programming languages, including compile-time and run-time issues. Support for block-structured procedural languages, object-oriented languages, and functional languages."  Everything after the first phrase is not accurate, and in fact reading it I realized it needs to be changed.  
+
+So, back to that first phrase.  The *design* and *implementation* of programming languages.  These are not independent.  What we'll be discussing in this course are the features of programming languages, along with how such features effect the implementation of these languages.  Let's consider an analogy: an architect.  An architect can design 
+anything they can imagine.  But they don't work in a vacuum.  Their perhaps very creative
+designs have to be constructed.  An architect who does not consider how their designs can be built, and at what cost, will likely end up designing a lot of structures that are never built. So an architect needs to understand how, and whether, the features they design can actually be practically implemented.  Our journey in this course will be doing the same with programming languages. 
 
 ### Course Topics 
 
-We will focus on the principles of security, covering the basics of cryptography, program security, operating system security, and network security. We will be reading and discussing some current research in the field well as some "classic" primary sources. The course has a programming component, though it is somewhat different than most UR courses in that you are often asked to modify existing code, or "hack" existing code.
+I could provide a long list of the topics we'll cover, but I expect that at this point most
+of them would not make sense to you.  So my intention is to add them as we cover them. We
+start with an introduction to PLAIT, which is a *functional* programming language.  (And if you're asking what that is, then you understand why I did not provide a list of topics.) Know that during the course, we will be implementing an interpreter for a functional language, using a functional language.  (More about this in lecture.)
 
+<ul>
+<li> PLAIT and an introduction to functional languages</li>
+</ul>
 ## Prerequisite
 
 The pre-requisite for this course is CMSC 301, completed with a grade of C- or better, or permission of the instructor.  Though a knowledge of computer networks is helpful, it is
