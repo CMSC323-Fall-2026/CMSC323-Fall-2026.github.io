@@ -45,8 +45,7 @@ Your dedication and hard work have led you to this moment; you belong here. Cong
 
 This is a one unit course on the design and implementation of programming languages. It is a required course (for most the last required course) of the CS major.  The catalog description reads "Concepts in design and implementation of programming languages, including compile-time and run-time issues. Support for block-structured procedural languages, object-oriented languages, and functional languages."  Everything after the first phrase is not accurate, and in fact reading it I realized it needs to be changed.  
 
-So, back to that first phrase.  The *design* and *implementation* of programming languages.  These are not independent.  What we'll be discussing in this course are the features of programming languages, along with how such features effect the implementation of these languages.  Let's consider an analogy: an architect.  An architect can design 
-anything they can imagine.  But they don't work in a vacuum.  Their perhaps very creative
+So, back to that first phrase.  The *design* and *implementation* of programming languages.  These are not independent.  What we'll be discussing in this course are the features of programming languages, along with how such features effect the implementation of these languages.  Let's consider an analogy: an architect.  An architect can design anything they can imagine.  But they don't work in a vacuum.  Their perhaps very creative
 designs have to be constructed.  An architect who does not consider how their designs can be built, and at what cost, will likely end up designing a lot of structures that are never built. So an architect needs to understand how, and whether, the features they design can actually be practically implemented.  Our journey in this course will be doing the same with programming languages. 
 
 ### Course Topics 
