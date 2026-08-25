@@ -43,10 +43,9 @@ Your dedication and hard work have led you to this moment; you belong here. Cong
 
 ### Course Description
 
-This is a one unit course on the design and implementation of programming languages. These are not independent.  What we'll be discussing in this course are the features of programming languages, along with how such features effect the implementation of these languages.  As an analogy, consider an architect.  An architect can design anything they can imagine.  But they don't work in a vacuum.  Their perhaps very creative
-designs have to be constructed.  An architect who does not consider how their designs can be built, and at what cost, will likely end up designing a lot of structures that are never built. So an architect needs to understand how, and whether, the features they design can actually be practically implemented.  Our journey in this course will be doing the same with programming languages. 
+This is a one unit course on the design and implementation of programming languages. These are not independent.  What we'll be discussing in this course are the features of programming languages, along with how such features effect the implementation of these languages.  As an analogy, consider an architect.  An architect can design anything they can imagine.  But they don't work in a vacuum.  Their perhaps very creative designs have to be constructed.  An architect who does not consider how their designs can be built, and at what cost, will likely end up designing a lot of structures that are never built. So an architect needs to understand how, and whether, the features they design can actually be practically implemented.  Our journey in this course will be doing the same with programming languages. 
 
-We will consider this relation between design and implementation of programming languages  by building features of a specific language. The features we will implement include an interpreter, a parser, a program generator, and a type-checker. You will be briefly exposed to compilers and learn about garbage collectors. The programming language you design and build in this course will follow the *Standard Model Of Programming Languages* (SMOL), which many popular programming languages (Java, C#, JavaScript, Python) follow. We will implement our programming language using the *Standard Implementation Plan* (SImPl), where expressions in a language are represented as trees. You will also be exposed to functional languages, particularly Dr Racket’s PLAIT, which are elegant and concise ways of expressing problems. PLAIT is built on the functional language Scheme, and is used in this course for its simplicity, expressive elegance, and size.
+We will consider this relation between design and implementation of programming languages  by building features of a specific language. The features we will implement include an interpreter, a parser, a program generator, and a type-checker. You will be briefly exposed to compilers and learn about garbage collectors. The programming language you design and build in this course will follow the *Standard Model Of Programming Languages* (SMOL), which many popular programming languages (e.g., Java, C#, JavaScript, Python) follow. We will implement our programming language using the *Standard Implementation Plan* (SImPl), where expressions in a language are represented as trees. You will also be exposed to functional languages, particularly Dr Racket’s PLAIT, which are elegant and concise ways of expressing problems. PLAIT is built on the functional language Scheme, and is used in this course for its simplicity, expressive elegance, and size.
 
 ### Course Topics 
 
@@ -65,70 +64,68 @@ The pre-requisite for this course is CMSC 301, completed with a grade of C- or b
 
 There is a textbook for this course.  It is free and can be found [here](https://www.plai.org/ ).  I realize that some of you prefer to absorb material through other types of media.  Feel free to do so.  But at least you know that you have a text reference should you need one.  
 
+## Course Structure
+
+Tuesdays and Thursdays: Lectures, discussion, and exercises. Exercises are typically unannounced and open-book.  They are not graded, but are instead an opportunity for you
+to reinforce what has been discussed in lecture, and to practice the concepts you will need to complete the programming projects. 
+
+Fridays (Labs): Typically, work on the programming projects.  These projects are also typically released during our labs. 
+
 ## Coursework and Grading
 
 Traditional grading schemes have been shown to be counterproductive for 
 a number of reasons.  One of these is that such systems often incentivize the 
 wrong thing -- getting the highest grade -- as opposed to incentivizing 
 learning the material.  While I will not be using a specifications-based grading 
-system (I'm still working out what that should look like), I want to make
-learning goals clear, and provide students with an opportunity to 
-earn back some of the points that are missed on midterm exams. 
+system, I want to make learning goals clear, and provide students with an opportunity to 
+earn back *some* of the points that are missed on midterm exams.  Note that
+I cannot allow students to earn back points lost on the final exam.
 
 
 ### Course Work
+
+- The majority of the points (70%) that determine your course grade will come from the programming projects.  There will be 7 or 8 of these.  They will be released on lab days and are due two weeks from the date assigned.  Projects are released via GitHub repositories.  Some of you have had classes with me, so know the drill.  For those
+that don't, please drop by and I will be happy to explain.
+
 - There will be two midterm exams, and one final.  With the exception of the 
 final, you will have the opportunity to earn back a portion of the points you 
-lose on an exam.  The midterm exams will be primarily take home exams.  They will
-be open-book, open note.  They will definitely *not* be open Internet.  In addition
-the take-home portion of the exam, there will be a 30 minute in-person oral portion of the exam.  During this latter portion of the exam, I will be asking you to explain some of the answers you have submitted in the take-home portion of the exam.  
+lose on an exam.  All exams will be in-class.  I have not yet determined whether they will be open-book, open note. They will definitely *not* be open Internet.  Because
+the exams are in-class, there is no need for a followup oral exam component.  
 
-- There will be two midterm projects, and one final project.  Note that I don't call
-these "programming" projects.  The first project will require that you modify code in order to implement two fundamental types of attacks on vulnerable code.  The second project will likely be a traditional programming project (though I am currently considering exactly what I want this to be).  
+I typically do not watch students when they take exams, but in this class, I reserve the right to do so.  I want to assert that should I do so, I am not attempting to detect cheating.  Rather, by watching you write PLAIT code, I am able to judge something of your facility with the language, and with the concepts we have learned. 
 
-- The final project will be conducted in groups of two students.  You will be presenting a recent security paper, as if you were presenting at a conference.  I will provide more details in lecture.  For all of the non-exam assignments, there will not be any opportunity to earn back points, because unlike an exam, you can ask me questions before your submit.
 
 ### Grade Determination
 
 | Grade Component | Proportion |
 | :---:| :--- : |
-| Participation (paper discussions) | 10 % |
-| First midterm | 15 %|
-| Second midterm | 15 %|
-| Programming Assignment 1 | 10 % |
-| Programming Assignment 2 | 10 % |
-| Final Project | 10 % |
-| Final Exam | 20 % |
+| Programming projects | 70 % |
+| First midterm | 10 %|
+| Second midterm | 10 %|
+| Final Exam | 10 % |
 
-One note on the grade distribution mentioned above.  Failure to turn in any of the assignments will result in a failing grade for the course.  Moreover, any assignment or
-exam submitted that indicates that a lack of a sincere effort will be treated as if it was not submitted.  
-
-As mentioned in the first lecture, the exams will be take-home.  They will be open note, but Internet will be restricted.  In particular, you will be allowed to use the Internet to obtain course slides and material, but not to perform searches or use any generative AI.  After each midterm, and the final, there will be a 30 minute individual oral exam. There will also be, for each of you, opportunities to regain some of the points lost on the midterm (but not the final).  
-
-There will also be two programming related assignments, along with a final assignment that will involve you delving deeply into a recent security research paper.  Details on these assigments will be provided when they are assigned.
+One note on the grade distribution mentioned above.  Failure to turn in two of the programming projects will result in a failing grade for the course.  Moreover, any assignment or exam submitted that indicates that a lack of a sincere effort will be treated as if it was not submitted.  
 
 Regarding the final course grade, my goal is that your final course grade reflects the following ideal as much as possible. (Note that this means that curving grades is not necessary, nor are you competing against your classmates.)
-- An ``A'' means that your knowledge of this material is exceptional. When you have to build on the material that you learned in this class in your future classes, then you will be able to do so easily.
-- A ``B'' means that you have a good understanding of most of the material, but may have some gaps in your understanding, or are not as comfortable with some aspects of it as you might be. As such you may want to review this material before taking more advanced classes. You will be able to apply the material in this class, but you may have difficulty doing so with some of it.
-- A ``C'' means that your knowledge of this material is average/mediocre. You will likely struggle to apply this material in your future classes, as you have struggled learning the material in this class.
-- A ``D'' means that you are not ready for future classes that builds on material from this class.
+- An ``A'' means that your knowledge of this material is exceptional. Should you ever have to build on the material that you learned in this class, you will be able to do so easily.
+- A ``B'' means that you have a good understanding of most of the material, but may have some gaps in your understanding, or are not as comfortable with some aspects of it as you might be. You will generally be able to apply the material in this class, but you may have difficulty doing so with some of it.
+- A ``C'' means that your knowledge of this material is average/mediocre. You will likely struggle to apply this material, as you have struggled learning the material in this class.
+- A ``D'' means that you are not sufficiently prepared to builds on the material from this class.
 - An ``F'' means that in addition to the conditions for a ``D'' grade, you also didn't try and/or failed to hand in work.
 - A ``V'' means that you missed too many classes to pass the class, regardless of your performance on the work.
 
-
-
 ### On Coding Help and Debugging
 
-Programming Help:  The programming requirements for this course, as mentioned earlier, are primarily modifying existing code.  Still, you may have questions on the code, or on modifications you have made.  I am happy to discuss programming and debugging techniques, as well as the semantics of particular functions calls. I am also happy to direct you to appropriate packages. And I will at times provide you with "shell code". With regards to programming, I am in general happy to help you in whatever way is necessary. I will not, however, debug your code for you! If you describe your programming issue with me, I will be happy to suggest potentially useful debugging strategies. But debugging is an important part (and in fact the majority part) of many programming-related projects. As such, you need to be comfortable with doing it on your own!  That does not mean I intend for you to be stuck on a particular error for hours.  
+Programming Help:  The programming requirements for this course can be challenging, but that is primarily because it is a language style that most of you have not seen before (and because PLAIT's static typing can be, well, something you have not experienced before). I am happy to discuss programming and debugging techniques, as well as the semantics of particular aspects of PLAIT. Bottom line, I am in general happy to help you in whatever way is necessary. I will not, however, debug your code for you! If you describe your programming issue with me, I will suggest potentially useful debugging strategies. But debugging is an important part (and in fact the majority part) of many programming-related projects. As such, you need to be comfortable with doing it on your own!  That does not mean I intend for you to be stuck on a particular error for hours.  
 
 You may discuss projects with your classmates, faculty, other students, etc, subject to the
-empty hands policy presented below. 
+*empty hands policy* presented below. 
 
-When you receive coding help, you should mention that help (and who helped) in your project submission. Regardless of how much help you received and from who, once you submit a project, it is expected that you will be able to provide me with answers to any questions I may have about what you have submitted. d
+When you receive coding help, you should mention that help (and who helped) in your project submission. Regardless of how much help you received and from who, once you submit a project, it is expected that you will be able to provide me with answers to any questions I may have about what you have submitted. 
 
 Finally, any help you receive from someone other than me is subject to the 
 ``Empty Hands'' policy --- you may freely discuss ideas and approaches with your anyone 
-subject to the restriction that you must leave the discussion without any written or otherwise recorded material. Failure to comply with this policy or the guideline discussed here will be treated as an Honor Code violation. Note that this policy does not apply to assignment/project group members (if any), with which you are free to share materials.
+subject to the restriction that you must leave the discussion without any written or otherwise recorded material. Failure to comply with this policy or the guideline discussed here will be treated as an Honor Code violation. 
 
 ### Late Work Policy
 
@@ -144,19 +141,17 @@ Regular attendance for the entire class time is expected. You should not miss mo
 
 ## Class Communication
 
-I will use two primary forms of communication in this class: email announcements and Slack. You are responsible for remaining up to date on any information sent by email or posted to Slack. This may include clarifications to assignments, updates on grading rubrics, and changes in office hours. 
+I will use two primary forms of communication in this class: email announcements and Slack. You are responsible for remaining up to date on any information sent by email or posted to Slack. This may include clarifications to assignments, updates on grading rubrics, and changes in office hours.  I will set up the Slack channel shortly. 
 
 For all general course information, questions, and clarifications, please use Slack. I hope that the Slack workspace can be an extension of our classroom community where we can share questions and answers for the entire class to view and learn from.
 
 If you have personal, individual issues you'd like addressed, you should send those by email to me. However, all course related topics should be directed to Slack.
-
 
 ## Course Policies
 
 ### Illness policy
 
 If you are ill and it will cause you to miss class, lab, or an assignment, you should let me know in advance, if possible. It is your responsibility to catch up with any missed material if you are able to do so.  If not, then immediately on return, work out a time-frame with me on when work will be submitted. 
-
 
 ### Generative AI
 
@@ -167,11 +162,12 @@ You must:
 - Understand any code that you use. I reserve the right to review your submitted code with you, and ask you to explain how it works. 
 
 You may:
-- Ask a GenAI tool a generic question for informational purposes. For example, "Please explain the C++ syntax for reading input from a file, and give an example."  If you use this code, please cite the source in a comment.
+- Ask a GenAI tool a generic question for informational purposes. For example, "Please explain the PLAIT syntax for defining a function, and give an example."  If you use this code, please cite the source in a comment.
 
 You may not:
 - Ask a GenAI tool to solve any part of the assignment.  For example, you should not paste the entire problem description and ask the GenAI to solve it for you.
-- No GenAI tools can be used for the exams.
+
+- No GenAI tools can be used for any of the exams.
 
 This policy is subject to change as we all learn more about how GenAI works and doesn’t work as part of learning college level course content.
 
