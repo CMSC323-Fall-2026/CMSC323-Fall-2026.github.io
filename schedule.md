@@ -17,18 +17,18 @@ title: Schedule
 | 3    | Sept 8: | Sept 10:  | Sept 11:|
 | 4    | Sept 15: **No Lecture -- Prof S at conference** | Sept 17: **No Lecture -- Prof S at conference**| Sept 18:|
 | 5    | Sept 22: | Sept 24:  | Sept 25:|
-| 6    | Sept 29: | Oct 1:  | Oct 2:  |
+| 6    | Sept 29: **First Midterm Exam**| Oct 1:  | Oct 2:  |
 | 7    | Oct 6: | Oct 8:  | Oct 9:|
 | 8    | Oct 13: **Fall Break** | Oct 15: | Oct 16: |
 | 9    | Oct 20: | Oct 22: | Oct 23 |
 | 10   | Oct 27: | Oct 29: | Oct 30:|
-| 11   | Nov 3: | Nov 5:  | Nov 6: |
+| 11   | Nov 3: **Second Midterm Exam**| Nov 5:  | Nov 6: |
 | 12   | Nov 10: | Nov 12:  | Nov 13: |
 | 13   | Nov 17: | Nov 19:  | Nov 20:|
 | 14   | Nov 24: **Thanksgiving Break** | Nov 26: **Thanksgiving Break** | Nov 27: **Thanksgiving Break**|
 | 15   | Dec 1: | Dec 3:  | Dec 4: |
 | 16   | Dec 8: |   | |
-| 17   | Dec 10: <br /> Final exam schedule for 2:00 - 5:00 pm. We'll discuss <br /> | | |
+| 17   | Dec 10: <br /> Final exam scheduled for 2:00 - 5:00 pm. <br /> | | |
 {% comment %}    
 | 1    | Aug 25: <br />[Introduction](lectures/Introduction.pdf)<br /> <br /> Hanson: [Efficient reading of papers in science and technology](papers/hanson_efficient_reading_of_papers_in_science_and_technology.pdf)<br /> <br /> Thompson: [Reflections on Trusting Trust](papers/thompson_reflections_on_trusting_trust.pdf)<br /> | Jan 15:  <br />[Handout: Security Introduction](handouts/security_intro.pdf)<br /> <br />[Implementation Flaws](lectures/ImplementationFlaws.pdf)<br /> | Jan 16:|
 | 2    | Jan 20: <br /> scut / team teso: [Exploiting format string vulnerabilities](papers/scut_exploiting_format_string_vulnerabilities.pdf)<br /><br />[Smashing The Stack](lectures/SmashingTheStack.pdf)<br /> | Jan 22: <br /> Project 1: [Exploit project](projects/project1.md) (Due Wed, February 11, at 5:00 pm) <br />[Handout: Buffer Overflows and Memory Safety](handouts/buffer_overflows_and_memory_safety.pdf)<br /><br />[Security Principles](lectures/SecurityPrinciples.pdf)<br />| Jan 23:|
