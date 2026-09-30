@@ -17,7 +17,7 @@ title: Schedule
 | 3    | Sept 8: [L4 Context-Free Grammars:](lectures/L4_Local_Binding_I.pdf) <br /> <br /> <u>Description:</u> <br /> Backus Naur Form <br /> Static and Dynamic Scoping <br />Free, binding, and bound identifiers and shadowing <br /> <br /> Activities: Identifying valid expressions in a language given a Backus Naur form <br /> Evaluating **<span style="font-family: 'Courier New';">with</span>** expressions| Sept 10:  | Sept 11:|
 | 4    | Sept 15: **No Lecture -- Prof S at conference** | Sept 17: **No Lecture -- Prof S at conference**| Sept 18:|
 | 5    | Sept 22: [L4 Local Binding Substitution](lectures/L4_Local_Binding_substitution.pdf) <br /> <br /> <u>Description:</u> <br /> How substitution works – eager evaluation,<br /> Substitution and evaluation of the body. <br /> Substitution with **<span style="font-family: 'Courier New';">withs</span>** <br /> Demo local binding with substitution <br /> <br /> Activities: <br /> Complete exercise specifying the body of **<span style="font-family: 'Courier New';">withs</span>** before and after substitution.| Sept 24:  [L5 Parsing](lectures/L5_Parsing.pdf) <br /> <br /> Parsing Exercise | Sept 25:|
-| 6    | Sept 29: **First Midterm Exam**| Oct 1:  | Oct 2:  |
+| 6    | Sept 29: **First Midterm Exam**| Oct 1: [L6 Functions with substitution](lectures/L6_Functions.pdf) <br /> <br /> <u>Description:</u> <br /> Functions with substitution<br /> <br /> Activities: <br /> Implement the functions with a hash-map rather than a list.| Oct 2:  |
 | 7    | Oct 6: | Oct 8:  | Oct 9:|
 | 8    | Oct 13: **Fall Break** | Oct 15: | Oct 16: |
 | 9    | Oct 20: | Oct 22: | Oct 23 |
