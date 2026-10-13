@@ -17,7 +17,9 @@ aside:
 * **Instructor:** Dr. Doug Szajda
 * **Email:** [dszajda@richmond.edu](mailto:dszajda@richmond.edu)
 * **Office Hours:** (Jepson 219)
-  * TBD -- I will discuss this in lecture so we can agree on times that work for you.
+  * Mon. 1:30 - 2:30, Thurs 10:30 - 11:45, Fri, 10:30 - 11:45 (Note that
+  some Firday hours may need to be canceled because of things like Preview Richmond,
+  in which I sometimes participate.)
   * Non-scheduled times by appointment (email me or catch me before or after class to schedule)
   * You should also feel free to drop by my office.
 * **Prerequisites:** CMSC 301 with a minimum grade of C-. CMSC 315 is recommended, but not required. (See [computer science curriculum](https://cs.richmond.edu/Academics/courses/index.html))
