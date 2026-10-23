@@ -18,8 +18,8 @@ title: Schedule
 | 4    | Sept 15: **No Lecture -- Prof S at conference** | Sept 17: **No Lecture -- Prof S at conference**| Sept 18:|
 | 5    | Sept 22: [L4 Local Binding Substitution](lectures/L4_Local_Binding_substitution.pdf) <br /> <br /> <u>Description:</u> <br /> How substitution works – eager evaluation,<br /> Substitution and evaluation of the body. <br /> Substitution with **<span style="font-family: 'Courier New';">withs</span>** <br /> Demo local binding with substitution <br /> <br /> Activities: <br /> Complete exercise specifying the body of **<span style="font-family: 'Courier New';">withs</span>** before and after substitution.| Sept 24:  [L5 Parsing](lectures/L5_Parsing.pdf) <br /> <br /> Parsing Exercise | Sept 25:|
 | 6    | Sept 29: **First Midterm Exam**| Oct 1: [L6 Functions with substitution](lectures/L6_Functions.pdf) <br /> <br /> <u>Description:</u> <br /> Functions with substitution<br /> <br /> Activities: <br /> Implement the functions with a hash-map rather than a list.| Oct 2:  |
-| 7    | Oct 6: [L7 Deferred Substitution](lectures/L7_Deferred_Substitution.pdf)<br /> <br />Activity: Determining the content of the hash map as an expression is being interpreted | Oct 8: [L8 Property Testing](lectures/L8_random_testing_I.pdf)<br /> <br />Activity: Property testing exercise | Oct 9:|
-| 8    | Oct 13: **Fall Break** | Oct 15: | Oct 16: |
+| 7    | Oct 6: [L7 Deferred Substitution](lectures/L7_Deferred_Substitution.pdf)<br /> <br />Activity: Determining the content of the hash map as an expression is being interpreted | Oct 8: [L8a Property Testing](lectures/L8_random_testing_I.pdf)<br /> <br />Activity: Property testing exercise | Oct 9:|
+| 8    | Oct 13: **Fall Break** | Oct 15: [L8b Program Equivalence](lectures/L8_random_testing_II.pdf)<br /> <br />Lecture: Program equivalence| Oct 16: |
 | 9    | Oct 20: | Oct 22: | Oct 23 |
 | 10   | Oct 27: | Oct 29: | Oct 30:|
 | 11   | Nov 3: **Second Midterm Exam**| Nov 5:  | Nov 6: |
