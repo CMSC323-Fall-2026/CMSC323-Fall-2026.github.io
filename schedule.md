@@ -21,7 +21,8 @@ title: Schedule
 | 7    | Oct 6: [L7 Deferred Substitution](lectures/L7_Deferred_Substitution.pdf)<br /> <br />Activity: Determining the content of the hash map as an expression is being interpreted | Oct 8: [L8a Property Testing](lectures/L8_random_testing_I.pdf)<br /> <br />Activity: Property testing exercise | Oct 9:|
 | 8    | Oct 13: **Fall Break** | Oct 15: [L8b Program Equivalence](lectures/L8_random_testing_II.pdf)<br /> <br />Lecture: Program equivalence| Oct 16: |
 | 9    | Oct 20: [Higher Order Functions](lectures/L9_higher_order_functions_updated.pdf)<br /> <br />Activity: Converting **<span style="font-family: 'Courier New';">deffuns</span>** to **<span style="font-family: 'Courier New';">withs</span>** and determining the content of the hash maps| Oct 22: | Oct 23 |
-| 10   | Oct 27: | Oct 29: | Oct 30:|
+| 10   | Oct 27: | Oct 29: [Compilation](lectures/L10_Compilation_revised.pdf)<br /> <br />Introduce compilation <br /> <br />IIFE Javascript example to show the equivalent of **<span style="font-family: 'Courier New';">withs</span>** and functions. <br /> <br />
+| Oct 30:|
 | 11   | Nov 3: **Second Midterm Exam**| Nov 5:  | Nov 6: |
 | 12   | Nov 10: | Nov 12:  | Nov 13: |
 | 13   | Nov 17: | Nov 19:  | Nov 20:|
