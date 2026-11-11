@@ -23,7 +23,7 @@ title: Schedule
 | 9    | Oct 20: [Higher Order Functions](lectures/L9_higher_order_functions_updated.pdf)<br /> <br />Activity: Converting **<span style="font-family: 'Courier New';">deffuns</span>** to **<span style="font-family: 'Courier New';">withs</span>** and determining the content of the hash maps| Oct 22: | Oct 23 |
 | 10   | Oct 27: | Oct 29: [Compilation](lectures/L10_Compilation_revised.pdf)<br /> <br />Introduce compilation <br /> <br />IIFE Javascript example to show the equivalent of **<span style="font-family: 'Courier New';">withs</span>** and functions. <br /> <br />
 | Oct 30:|
-| 11   | Nov 3: **Second Midterm Exam**| Nov 5:  | Nov 6: |
+| 11   | Nov 3: **Second Midterm Exam**| Nov 5: [Recursion, the Y-combinator](lectures/L11_Recursion.pdf)<br /> <br />Discuss implementing recursion via the Y-combinator.| Nov 6: |
 | 12   | Nov 10: | Nov 12:  | Nov 13: |
 | 13   | Nov 17: | Nov 19:  | Nov 20:|
 | 14   | Nov 24: **Thanksgiving Break** | Nov 26: **Thanksgiving Break** | Nov 27: **Thanksgiving Break**|
